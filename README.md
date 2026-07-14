@@ -1,4 +1,5 @@
-// Benchmark CPU implementation
+```
+    // Benchmark CPU implementation
     printf("Benchmarking CPU implementation....\n");
     double cpu_total_time = 0.0;
     for(int i = 0; i < 20; i++)
@@ -22,3 +23,4 @@
         gpu_total_time += end_time - start_time;
     }
     double gpu_avg_time = gpu_total_time / 20.0;
+```
