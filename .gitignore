@@ -1,0 +1,6 @@
+build/
+*.o
+*.out
+vector_addition
+01
+.env
